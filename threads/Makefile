@@ -1,10 +1,13 @@
 TARGET = thread-example
 SRCS = thread.c
 
+TARGET = thread1.2
+SRC = thread1.2.c
+
 CC=gcc
 RM=rm
 CFLAGS= -g -Wall
-LIBS=-lpthread
+LIBS=-pthread
 INCLUDE_DIR="."
 
 all: ${TARGET}
