@@ -4,17 +4,17 @@
   <component name="MakefileSettings">
     <option name="linkedExternalProjectsSettings">
       <MakefileProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/threads" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/threads/1.6" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/threads" />
+            <option value="$PROJECT_DIR$/threads/1.6" />
           </set>
         </option>
         <option name="version" value="2" />
       </MakefileProjectSettings>
     </option>
   </component>
-  <component name="MakefileWorkspace" PROJECT_DIR="$PROJECT_DIR$/threads">
+  <component name="MakefileWorkspace" PROJECT_DIR="$PROJECT_DIR$/threads/1.6">
     <contentRoot DIR="$PROJECT_DIR$" />
   </component>
 </project>
