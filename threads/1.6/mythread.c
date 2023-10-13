@@ -10,7 +10,7 @@
 #endif
 
 #include "mythread.h"
-#include "mymutex.h"
+#include "myfutex.h"
 
 
 void mythread_end_routine(mythread_t *thread) {
